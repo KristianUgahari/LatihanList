@@ -1,0 +1,7 @@
+D:\2296\LatihanList\LatihanList\bin\Debug\LatihanList.exe.config
+D:\2296\LatihanList\LatihanList\bin\Debug\LatihanList.exe
+D:\2296\LatihanList\LatihanList\bin\Debug\LatihanList.pdb
+D:\2296\LatihanList\LatihanList\obj\Debug\LatihanList.csprojAssemblyReference.cache
+D:\2296\LatihanList\LatihanList\obj\Debug\LatihanList.csproj.CoreCompileInputs.cache
+D:\2296\LatihanList\LatihanList\obj\Debug\LatihanList.exe
+D:\2296\LatihanList\LatihanList\obj\Debug\LatihanList.pdb
